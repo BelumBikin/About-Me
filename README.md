@@ -5,6 +5,7 @@
   <li>🌱 I’m currently learning UI/UX designer and Front End Web Development </li>
   <li>💼 I'm a Student at SMK Telkom Malang.</li>
   <li>Certificates and Portofolio : https://drive.google.com/drive/folders/1Oeaa1iBYpg7rvUlrUI7dCTcwBMC1UwU6</li>
+  <li>UI/UX : https://dribbble.com/BelumBikin</li>
   <li>Youtube : https://www.youtube.com/channel/UCK8wbZdPGwmF_gZYuTrcufA</li>
 </ul>
 
