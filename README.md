@@ -32,5 +32,5 @@
  <p align="center">
   <a href="ananda.afta@gmal.com"><img alt="Gmail" title="Afta's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/@Firstiarko"><img alt="Telegram" title="Afta's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="http://twitter.com/firstiarko "><img alt="Twitter" title="Afta's Twitter - Coming soon" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="http://twitter.com/firstiarko "><img alt="Twitter" title="Afta's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
